@@ -22,10 +22,12 @@
       <a href="https://www.facebook.com/tranbaoanh.27" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="tranbaoanhh27" height="30"/></a>
-      <a href="mailto:tranbaoanhh27@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="tranbaoanhh27" height="30"/></a>
-      <a href="https://www.instagram.com/_tranbaoanh/">
+      <a href="mailto:tranbaoanhh27@gmail.com" target="blank">
+        <img  align="center"
+              src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+              alt="tranbaoanhh27" height="30"/>
+      </a>
+      <a href="https://www.instagram.com/_tranbaoanh/" target="blank">
           <img  align="center"
                 src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
                 alt="tranbaoanhh27" height="30"/>
