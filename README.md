@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 align="center">Welcome to my Github profile!</h1>
-  <h1 align="center"> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Bao Anh </h1>
+  <img width="100" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
+  <h1 align="center"> Welcome to my Github profile!</h1>
+  <h1 align="center"> I'm Bao Anh </h1>
   <h4 align="center">Student at the Faculty of Information Technology, University of Science - VNUHCM </h4>
 </div>
 
@@ -10,8 +11,6 @@
        alt="snake" /></a>
 </div>
 
-<details>
-  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">😎 You can reach me by:</h2>
@@ -32,11 +31,8 @@
     </p>
   </samp>
 </div>
-</details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
+<div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
@@ -50,12 +46,8 @@
           </a>
        </p>
      <br>
-  </div>    
-</details>
+  </div>
 
-<details>
-  <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bao-Anh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tranbaoanhh27&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
