@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
   <h1 align="center"> Welcome to my Github profile!</h1>
-  <h1 align="center"> I'm Bao Anh </h1>
+  <h1 align="center"> I'm Bao-Anh Tran </h1>
   <h4 align="center">Student at the Faculty of Information Technology, University of Science - VNUHCM </h4>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div>
   <samp>
-    <h2 align="center">😎 You can reach me by:</h2>
+    <h2 align="center">Contact:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/tran-bao-anh-150522244/" target="blank"><img align="center"
