@@ -2,7 +2,7 @@
   <img width="100" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
   <h1 align="center"> Welcome to my Github profile!</h1>
   <h1 align="center"> I'm Bao-Anh Tran </h1>
-  <h4 align="center">Student at the Faculty of Information Technology, University of Science - VNUHCM </h4>
+  <h4 align="center">Undergraduate student at the Honors Program of the Faculty of Information Technology, University of Science - VNUHCM </h4>
 </div>
 
 <div align="center">
