@@ -35,17 +35,18 @@
       <br/>
         <p align="center">
           <a href="https://github.com/tranbaoanhh27/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaoanhh27&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="tranbaoanhh27 :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/tranbaoanhh27/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tranbaoanhh27&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tranbaoanhh27&theme=gruvbox&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaoanhh27&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="tranbaoanhh27 :: Top Langs" width="50%" />
           </a>
-       </p>
+        </p>
+  <p align="center">
+          <a href="https://github.com/tranbaoanhh27/">
+            <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tranbaoanhh27&show_icons=true&theme=gruvbox&hide_border=true" />
+          </a>
+        </p>
+  <p align="center">
+          <a href="https://github.com/tranbaoanhh27/">
+            <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tranbaoanhh27&theme=gruvbox&hide_border=true" />
+          </a>
+        </p>
      <br>
   </div>
-
-  <br/>
-  <h2 align="center"> My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bao-Anh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tranbaoanhh27&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
