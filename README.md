@@ -1,5 +1,5 @@
 <div align="start">
-  <h2 align="start"><img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">  Welcome to my Github profile!</h2>
+  <h2 align="start">Welcome to my Github profile!</h2>
   <h1 align="start">I'm Bao-Anh Tran</h1>
   <h4 align="start">Undergraduate student at the Honors Program of the Faculty of Information Technology, University of Science - VNUHCM </h4>
 </div>
